@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey there 👋
+
+My name is Dionne (she/her; pronounciation: Dee-own) and I am a current **PhD student** in the [Day Lab](https://biomedicalsciences.unimelb.edu.au/sbs-research-groups/microbiology-and-immunology-research-groups/day-laboratory-malaria-genomics,-epidemiology-and-control) at the University of Melbourne 🇦🇺🦘 
+
+- Proud Greek-Australian from Melbourne, AU
+- BSc (major in Genetics), MSc (BioSciences) and PhD at [The University of Melbourne](https://www.unimelb.edu.au/)
+- Current Vice-President of [R-Ladies Melbourne Inc](https://twitter.com/rladiesmelb)
+- Ask me about: **Population Genetics** and **Molecular Epidemiology** of *Plasmodium falciparum* 
+- You can reach me on [X](https://twitter.com/DionneArgy), [LinkedIn](https://www.linkedin.com/in/dionne-argyropoulos-47749b14b/) or at my current email address: dargyropoulo@student.unimelb.edu.au
 
 <!--
 **dionnecargy/dionnecargy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
