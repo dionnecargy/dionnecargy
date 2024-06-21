@@ -2,7 +2,7 @@
 
 My name is Dionne (she/her; pronounciation: Dee-own) and I am a current **PhD student** in the [Day Lab](https://biomedicalsciences.unimelb.edu.au/sbs-research-groups/microbiology-and-immunology-research-groups/day-laboratory-malaria-genomics,-epidemiology-and-control) at the University of Melbourne 🇦🇺🦘 
 
-- 🇬🇷/🇦🇺 Proud Greek-Australian from Melbourne, AU
+- 🇬🇷/🇦🇺 Greek-Australian from Melbourne, AU
 - 🎓 BSc (major in Genetics), MSc (BioSciences) and PhD at [The University of Melbourne](https://www.unimelb.edu.au/)
 - 💻 Current Vice-President of [R-Ladies Melbourne Inc](https://twitter.com/rladiesmelb)
 - 💬 Ask me about: 🧬 **Population Genetics** and 🔎 **Molecular Epidemiology** of *Plasmodium falciparum* 
