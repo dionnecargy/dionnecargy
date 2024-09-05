@@ -1,4 +1,4 @@
-### Hey there 👋
+### Hi there 👋
 
 My name is Dionne (she/her; pronounciation: Dee-own) and I am a current **PhD student** in the [Day Lab](https://biomedicalsciences.unimelb.edu.au/sbs-research-groups/microbiology-and-immunology-research-groups/day-laboratory-malaria-genomics,-epidemiology-and-control) at the University of Melbourne 🇦🇺🦘 
 
