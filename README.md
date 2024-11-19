@@ -8,7 +8,7 @@ My name is Dionne (she/her; pronounciation: Dee-own) and I am in the *very final
 - 💬 Ask me about:
       - 🧬 **Population Genetics** and 🔎 **Molecular Epidemiology** of *Plasmodium falciparum*
       - ⚙️ Machine Learning Techniques and Modelling! 
-- 📫 You can reach me on [Bluesky]([https://twitter.com/DionneArgy](https://bsky.app/profile/dionnecargy.bsky.social)), [LinkedIn](https://www.linkedin.com/in/dionne-argyropoulos-47749b14b/) or at my current email address: argyropoulos.d@wehi.edu.au
+- 📫 You can reach me on [Bluesky](https://bsky.app/profile/dionnecargy.bsky.social), [LinkedIn](https://www.linkedin.com/in/dionne-argyropoulos-47749b14b/) or at my current email address: argyropoulos.d@wehi.edu.au
 
 <!--
 **dionnecargy/dionnecargy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
