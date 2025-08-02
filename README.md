@@ -6,7 +6,6 @@ My name is Dionne (she/her; pronounciation: Dee-own) and I completed my **PhD** 
 - 🎓 BSc (major in Genetics), MSc (BioSciences) and PhD at [The University of Melbourne](https://www.unimelb.edu.au/)
 - 💻 Current President of [R-Ladies Melbourne Inc.]([https://twitter.com/rladiesmelb](https://r-ladiesmelbourne.github.io/))
 - 💬 Ask me about:
-  
       - 🧬 **Population Genetics** and 🔎 **Molecular Epidemiology** of *Plasmodium falciparum*
       - ⚙️ Machine Learning Techniques and Modelling! 
 - 📫 You can reach me on [Bluesky](https://bsky.app/profile/dionnecargy.bsky.social), [LinkedIn](https://www.linkedin.com/in/dionne-argyropoulos-47749b14b/) or at my current email address: argyropoulos.d@wehi.edu.au
