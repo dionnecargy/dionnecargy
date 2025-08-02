@@ -10,7 +10,7 @@ My name is Dionne (she/her; pronounciation: Dee-own) and I completed my **PhD** 
       - ⚙️ Machine Learning Techniques and Modelling! 
 - 📫 You can reach me on [Bluesky](https://bsky.app/profile/dionnecargy.bsky.social), [LinkedIn](https://www.linkedin.com/in/dionne-argyropoulos-47749b14b/) or at my current email address: argyropoulos.d@wehi.edu.au
 
-| ![](images/PvSeroApp_sticker.png) | ![](images/SeroTrackR.png) | ![](images/melbourne.png) |
+| ![](images/PvSeroApp_sticker.png) | ![](images/SeroTrackR_sticker).png) | ![](images/melbourne_sticker.png) |
 |:---------------------------:|:---------------------------:|:---------------------------:|
 | {PvSeroApp}                  | {SeroTrackR}                  | {melbourne}                  |
 
